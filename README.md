@@ -50,7 +50,7 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
     ```sh
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173/`.
 
 ## Contributing
 
